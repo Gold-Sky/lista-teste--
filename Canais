@@ -1,84 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 type="stream" tvg-id="ANIMAL PLANET FHD" tvg-logo="https://techzzi.site/logos/documentario/animalplanet.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",ANIMAL PLANET FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794330.m3u8
-#EXTINF:-1 type="stream" tvg-id="ANIMAL PLANET SD" tvg-logo="https://techzzi.site/logos/documentario/animalplanet.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",ANIMAL PLANET SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794332.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY CHANNEL FHD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794333.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY CHANNEL HD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794334.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY CHANNEL SD" tvg-logo="https://techzzi.site/logos/documentario/discovery.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY CHANNEL SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794335.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY HOME & HEALTH FHD" tvg-logo="https://techzzi.site/logos/variedades/discoveryheh.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY HOME & HEALTH FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794336.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY HOME & HEALTH SD" tvg-logo="https://techzzi.site/logos/variedades/discoveryheh.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY HOME & HEALTH SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794338.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE FHD" tvg-logo="https://techzzi.site/logos/documentario/discoveryscience.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY SCIENCE FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794339.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE HD" tvg-logo="https://techzzi.site/logos/documentario/discoveryscience.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY SCIENCE HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794340.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY SCIENCE SD" tvg-logo="https://techzzi.site/logos/documentario/discoveryscience.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY SCIENCE SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794341.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER FHD" tvg-logo="https://techzzi.site/logos/documentario/discoverytheater.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY THEATER FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794342.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER HD" tvg-logo="https://techzzi.site/logos/documentario/discoverytheater.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY THEATER HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794343.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY THEATER SD" tvg-logo="https://techzzi.site/logos/documentario/discoverytheater.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY THEATER SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794344.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC FHD" tvg-logo="https://techzzi.site/logos/variedades/tlc.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TLC FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794345.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC HD" tvg-logo="https://techzzi.site/logos/variedades/tlc.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TLC HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794346.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TLC SD" tvg-logo="https://techzzi.site/logos/variedades/tlc.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TLC SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794347.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO FHD" tvg-logo="https://techzzi.site/logos/variedades/discoveryturbo.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TURBO FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794348.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO HD" tvg-logo="https://techzzi.site/logos/variedades/discoveryturbo.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TURBO HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794349.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY TURBO SD" tvg-logo="https://techzzi.site/logos/variedades/discoveryturbo.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY TURBO SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794350.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD FHD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794351.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD HD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794352.m3u8
-#EXTINF:-1 type="stream" tvg-id="DISCOVERY WORLD SD" tvg-logo="https://techzzi.site/logos/documentario/discoveryworld.png" group-title="✨ CANAIS • DISCOVERY",DISCOVERY WORLD SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794353.m3u8
-#EXTINF:-1 type="stream" tvg-id="FISH TV FHD" tvg-logo="https://i.postimg.cc/9fjDcjN9/FISH-TV.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",FISH TV FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794354.m3u8
-#EXTINF:-1 type="stream" tvg-id="FISH TV HD" tvg-logo="https://i.postimg.cc/9fjDcjN9/FISH-TV.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",FISH TV HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794355.m3u8
-#EXTINF:-1 type="stream" tvg-id="FISH TV SD" tvg-logo="https://i.postimg.cc/9fjDcjN9/FISH-TV.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",FISH TV SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794356.m3u8
-#EXTINF:-1 type="stream" tvg-id="H2 FHD" tvg-logo="https://techzzi.site/logos/documentario/h2.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",H2 FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794357.m3u8
-#EXTINF:-1 type="stream" tvg-id="H2 HD" tvg-logo="https://techzzi.site/logos/documentario/h2.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",H2 HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794358.m3u8
-#EXTINF:-1 type="stream" tvg-id="H2 SD" tvg-logo="https://techzzi.site/logos/documentario/h2.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",H2 SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794359.m3u8
-#EXTINF:-1 type="stream" tvg-id="HGTV  SD" tvg-logo="https://techzzi.site/logos/variedades/hgtv.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HGTV  SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794360.m3u8
-#EXTINF:-1 type="stream" tvg-id="HGTV FHD" tvg-logo="https://techzzi.site/logos/variedades/hgtv.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HGTV FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794361.m3u8
-#EXTINF:-1 type="stream" tvg-id="HGTV HD" tvg-logo="https://techzzi.site/logos/variedades/hgtv.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HGTV HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794362.m3u8
-#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL FHD" tvg-logo="https://techzzi.site/logos/documentario/history.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HISTORY CHANNEL FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794363.m3u8
-#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL HD" tvg-logo="https://techzzi.site/logos/documentario/history.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HISTORY CHANNEL HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794364.m3u8
-#EXTINF:-1 type="stream" tvg-id="HISTORY CHANNEL SD" tvg-logo="https://techzzi.site/logos/documentario/history.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",HISTORY CHANNEL SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794365.m3u8
-#EXTINF:-1 type="stream" tvg-id="ID - INVESTIGAÇÃO DISCOVERY FHD" tvg-logo="https://techzzi.site/logos/documentario/id.png" group-title="✨ CANAIS • DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794366.m3u8
-#EXTINF:-1 type="stream" tvg-id="ID - INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://techzzi.site/logos/documentario/id.png" group-title="✨ CANAIS • DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794367.m3u8
-#EXTINF:-1 type="stream" tvg-id="ID - INVESTIGAÇÃO DISCOVERY SD" tvg-logo="https://techzzi.site/logos/documentario/id.png" group-title="✨ CANAIS • DISCOVERY",ID - INVESTIGAÇÃO DISCOVERY SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794368.m3u8
-#EXTINF:-1 type="stream" tvg-id="NATGEO HD" tvg-logo="https://techzzi.site/logos/documentario/natgeo.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",NATGEO HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794370.m3u8
-#EXTINF:-1 type="stream" tvg-id="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://techzzi.site/logos/documentario/natgeo.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794371.m3u8
-#EXTINF:-1 type="stream" tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="https://techzzi.site/logos/documentario/natgeo.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794372.m3u8
-#EXTINF:-1 type="stream" tvg-id="NATIONAL GEOGRAPHIC SD" tvg-logo="https://techzzi.site/logos/documentario/natgeo.png" group-title="✨  CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
-http://c.techzzi.top/live/Ovingador41/18121993Mm/4794373.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 02 HD" tvg-logo="https://techzzi.site/logos/esportesppv/hbomax.png" group-title="⚽ CANAIS • STAR & HBO MAX",HBO MAX 02 HD
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780094.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 03 HD" tvg-logo="https://techzzi.site/logos/esportesppv/hbomax.png" group-title="⚽ CANAIS • STAR & HBO MAX",HBO MAX 03 HD
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780095.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 04 HD" tvg-logo="https://techzzi.site/logos/esportesppv/hbomax.png" group-title="⚽ CANAIS • STAR & HBO MAX",HBO MAX 04 HD
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780096.m3u8
+#EXTINF:-1 type="stream" tvg-id="HBO MAX 05 HD" tvg-logo="https://techzzi.site/logos/esportesppv/hbomax.png" group-title="⚽ CANAIS • STAR & HBO MAX",HBO MAX 05 HD
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780097.m3u8
+#EXTINF:-1 type="stream" tvg-id="STAR+ 2" tvg-logo="https://techzzi.site/logos/esportesppv/star.png" group-title="⚽ CANAIS • STAR & HBO MAX",STAR+ 2
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780100.m3u8
+#EXTINF:-1 type="stream" tvg-id="STAR+ 3" tvg-logo="https://techzzi.site/logos/esportesppv/star.png" group-title="⚽ CANAIS • STAR & HBO MAX",STAR+ 3
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780101.m3u8
+#EXTINF:-1 type="stream" tvg-id="STAR+ 4" tvg-logo="https://techzzi.site/logos/esportesppv/star.png" group-title="⚽ CANAIS • STAR & HBO MAX",STAR+ 4
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780102.m3u8
+#EXTINF:-1 type="stream" tvg-id="STAR+ 6" tvg-logo="https://techzzi.site/logos/esportesppv/star.png" group-title="⚽ CANAIS • STAR & HBO MAX",STAR+ 6
+http://c.techzzi.top/live/Ovingador41/18121993Mm/4780104.m3u8
