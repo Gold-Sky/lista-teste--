@@ -1,20 +1,188 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s26.postimg.cc/sb0bhqwe1/variedades_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Variedades e MÃºsicas
-https://videos2.sendvid.com/35/bb/wqq2d0tx.mp4?MEGAMAXPLAY
+#EXTINF:0,animal planet
+http://168.205.87.198:8555/live/cesar/123456/18.m3u8
 
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://s26.postimg.cc/f4avi6y3t/a_e_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",A&E
+#EXTINF:0,discovery channel
+http://168.205.87.198:8555/live/cesar/123456/33.m3u8
 
-#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://s26.postimg.cc/n9sxgd9i1/arte1_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Arte 1
+#EXTINF:0,Nat Geo
+http://168.205.87.198:8555/live/cesar/123456/78.m3u8
 
-#EXTINF:-1 tvg-id="Bis" tvg-name="Bis" tvg-logo="https://s26.postimg.cc/wuck3b3zt/bis_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Bis
+#EXTINF:0,band
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://s26.postimg.cc/5jr8veo89/canalbrasil_MEGAMAXPLAY.jpg" group-title="Filmes e SÃ©ries",Canal Brasil
+#EXTINF:0,record
+http://168.205.87.198:8555/live/cesar/123456/96.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine +" tvg-logo="https://s26.postimg.cc/lurcrsdll/cinemais_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Cine +
-https://live.sba1.com/hls/livecm/index.m3u8?MEGAMAXIPTV
+#EXTINF:0,sbt
+http://168.205.87.198:8555/live/cesar/123456/104.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="https://s26.postimg.cc/rixnipct5/classiquetv_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Classique TV
-http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?MEGAMAXIPTV
+#EXTINF:0,globo
+http://168.205.87.198:8555/live/cesar/123456/70.m3u8
 
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://s26.postimg.cc/69a17vjnt/comedycentral_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Comedy Central
+#EXTINF:0,espn2
+http://168.205.87.198:8555/live/cesar/123456/49.m3u8
+
+#EXTINF:0,boomerang
+http://212.224.98.211:2200/BR/Boomerang_HD-br/tracks-v1a1/mono.m3u8?token=RED_Boyj51WGUL5HCNI66fp5IQ%3D%3D%2C1626165743.0229961702
+
+#EXTINF:0,espn brasil
+http://168.205.87.198:8555/live/cesar/123456/50.m3u8
+
+#EXTINF:0,espn estra
+http://168.205.87.198:8555/live/cesar/123456/51.m3u8
+
+#EXTINF:0,espn
+http://168.205.87.198:8555/live/cesar/123456/60.m3u8
+
+#EXTINF:0,canal do boi
+http://168.205.87.198:8555/live/cesar/123456/10.m3u8
+
+#EXTINF:0,cançao nova
+http://168.205.87.198:8555/live/cesar/123456/25.m3u8
+
+#EXTINF:0,carton network
+http://168.205.87.198:8555/live/cesar/123456/26.m3u8
+
+
+#EXTINF:0,class hits
+http://168.205.87.198:8555/live/cesar/123456/27.m3u8
+
+
+#EXTINF:0,tv senado
+http://168.205.87.198:8555/live/cesar/123456/28.m3u8
+
+#EXTINF:0,cult
+http://168.205.87.198:8555/live/cesar/123456/30.m3u8
+
+#EXTINF:0,cultura
+http://168.205.87.198:8555/live/cesar/123456/32.m3u8
+
+#EXTINF:0,discovery id
+http://168.205.87.198:8555/live/cesar/123456/36.m3u8
+
+#EXTINF:0,discovery kids
+http://168.205.87.198:8555/live/cesar/123456/37.m3u8
+
+#EXTINF:0,tlc
+http://168.205.87.198:8555/live/cesar/123456/40.m3u8
+
+#EXTINF:0,disney channel
+http://168.205.87.198:8555/live/cesar/123456/45.m3u8
+
+#EXTINF:0,disney junior
+http://168.205.87.198:8555/live/cesar/123456/46.m3u8
+
+#EXTINF:0,disney xd
+http://168.205.87.198:8555/live/cesar/123456/47.m3u8
+
+#EXTINF:0,espn2
+http://168.205.87.198:8555/live/cesar/123456/49.m3u8
+
+#EXTINF:0,fich tv
+http://168.205.87.198:8555/live/cesar/123456/62.m3u8
+
+
+
+#EXTINF:0,star channel
+http://168.205.87.198:8555/live/cesar/123456/63.m3u8
+
+#EXTINF:0,fox sport
+http://168.205.87.198:8555/live/cesar/123456/65.m3u8
+
+#EXTINF:0,fox sport 2
+http://168.205.87.198:8555/live/cesar/123456/66.m3u8
+
+#EXTINF:0,futura
+http://168.205.87.198:8555/live/cesar/123456/67.m3u8
+
+#EXTINF:0,fx
+http://168.205.87.198:8555/live/cesar/123456/68.m3u8
+
+#EXTINF:0,gazeta
+http://168.205.87.198:8555/live/cesar/123456/69.m3u8
+
+
+#EXTINF:0,hits
+http://168.205.87.198:8555/live/cesar/123456/72.m3u8
+
+
+#EXTINF:0,hg tv
+http://168.205.87.198:8555/live/cesar/123456/71.m3u8
+
+#EXTINF:0,mtv
+http://168.205.87.198:8555/live/cesar/123456/76.m3u8
+
+#EXTINF:0,nick
+http://168.205.87.198:8555/live/cesar/123456/80.m3u8
+
+#EXTINF:0,ratinbum
+http://168.205.87.198:8555/live/cesar/123456/84.m3u8
+
+#EXTINF:0,record news
+http://168.205.87.198:8555/live/cesar/123456/97.m3u8
+
+#EXTINF:0,rede minas
+http://168.205.87.198:8555/live/cesar/123456/101.m3u8
+
+#EXTINF:0,rede vida
+http://168.205.87.198:8555/live/cesar/123456/103.m3u8
+
+
+#EXTINF:0,space
+http://168.205.87.198:8555/live/cesar/123456/110.m3u8
+
+#EXTINF:0,tcm
+http://168.205.87.198:8555/live/cesar/123456/112.m3u8
+
+#EXTINF:0,tnt sports
+http://168.205.87.198:8555/live/cesar/123456/116.m3u8
+
+#EXTINF:0,tnt series
+http://168.205.87.198:8555/live/cesar/123456/117.m3u8
+
+#EXTINF:0,tv aparecida
+http://168.205.87.198:8555/live/cesar/123456/131.m3u8
+
+
+#EXTINF:0,tv brasil
+http://168.205.87.198:8555/live/cesar/123456/134.m3u8
+
+#EXTINF:0,tv camara
+http://168.205.87.198:8555/live/cesar/123456/136.m3u8
+
+#EXTINF:0,tv camara
+http://168.205.87.198:8555/live/cesar/123456/138.m3u8
+
+#EXTINF:0,loading
+http://168.205.87.198:8555/live/cesar/123456/142.m3u8
+
+#EXTINF:0,map kids
+http://168.205.87.198:8555/live/cesar/123456/143.m3u8
+
+
+#EXTINF:0,cine brasil tv
+http://168.205.87.198:8555/live/cesar/123456/145.m3u8
+
+
+#EXTINF:0,rb tv
+http://168.205.87.198:8555/live/cesar/123456/147.m3u8
+
+#EXTINF:0,all sports
+http://168.205.87.198:8555/live/cesar/123456/148.m3u8
+
+#EXTINF:0,canal do boi
+http://168.205.87.198:8555/live/cesar/123456/151.m3u8
+
+#EXTINF:0,cine açao
+http://168.205.87.198:8555/live/cesar/123456/154.m3u8
+
+#EXTINF:0,cine comedia
+http://168.205.87.198:8555/live/cesar/123456/155.m3u8
+
+#EXTINF:0,cine ficçao
+http://168.205.87.198:8555/live/cesar/123456/156.m3u8
+
+#EXTINF:0,cine comedia
+http://168.205.87.198:8555/live/cesar/123456/157.m3u8
