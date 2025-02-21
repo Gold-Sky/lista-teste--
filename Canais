@@ -1,22 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",DISNEY XD
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/120.m3u8
-#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/10/baby-tv.png",BABY TV AO VIVO
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/128.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" BOOMERANG
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/127.m3u8
-#EXTINF:-1 tvg-logo="http://www.exorbeo.com/wp-content/uploads/2016/09/tooncast-na-sky-e1473261464932.jpg",TOONNCAST
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/124.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/1280px-Nick_Jr._logo_2009.svg.png" NICK JR.
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/122.m3u8
-#EXTINF:-1 tvg-logo="https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2009/08/before.png",NICKELODEON
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/123.m3u8
-#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg",GLOOB
-ttps://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/121.m3u8
-#EXTINF:-1 tvg-logo="http://images5.fanpop.com/image/photos/27500000/Disney-Junior-Logo-disney-junior-27558537-2560-1920.jpg",DISNEY JR.
-https://canguru5.global.ssl.fastly.net//hls1/disneyjunior.m3u8?c2VydmVyX3RpbWU9NS8yMi8yMDE5IDk6Mjk6MjQgUE0maGFzaF92YWx1ZT1NUHBMakoya1hPM1dtOVVqbGhzcHB3PT0mdmFsaWRtaW51dGVzPTIwJmlkPTU=
-#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2010/11/disneychannel.jpg "DISNEY CHANNEL
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/118.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/cartoonnetwork/images/4/46/Cartoon_Network.png/revision/latest?cb=20131019183006&path-prefix=pt-br",CARTON NERWORK
-https://assistirtvonline.xyz:25463/live/QuartaTem/AoVivoHoje/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s26.postimg.cc/sb0bhqwe1/variedades_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Variedades e MÃºsicas
+https://videos2.sendvid.com/35/bb/wqq2d0tx.mp4?MEGAMAXPLAY
+
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://s26.postimg.cc/f4avi6y3t/a_e_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",A&E
+
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://s26.postimg.cc/n9sxgd9i1/arte1_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Arte 1
+
+#EXTINF:-1 tvg-id="Bis" tvg-name="Bis" tvg-logo="https://s26.postimg.cc/wuck3b3zt/bis_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Bis
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://s26.postimg.cc/5jr8veo89/canalbrasil_MEGAMAXPLAY.jpg" group-title="Filmes e SÃ©ries",Canal Brasil
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine +" tvg-logo="https://s26.postimg.cc/lurcrsdll/cinemais_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Cine +
+https://live.sba1.com/hls/livecm/index.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="" tvg-name="Classique TV" tvg-logo="https://s26.postimg.cc/rixnipct5/classiquetv_MEGAMAXPLAY.png" group-title="Variedades e MÃºsicas",Classique TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?MEGAMAXIPTV
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://s26.postimg.cc/69a17vjnt/comedycentral_MEGAMAXPLAY.jpg" group-title="Variedades e MÃºsicas",Comedy Central
