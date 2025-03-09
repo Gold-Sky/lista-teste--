@@ -1,15 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="AMC FHD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="CANAIS • FILMES E SERIES",AMC FHD
+http://toddyx.eu:80/705653255/569798966/1568560
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="CANAIS • FILMES E SERIES",AMC HD
+http://toddyx.eu:80/705653255/569798966/1568561
+#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://acstatic.co/logos/canais/amc.png" group-title="CANAIS • FILMES E SERIES",AMC SD
+http://toddyx.eu:80/705653255/569798966/1568562
+#EXTINF:-1 tvg-id="" tvg-name="Anhanguera Anápolis FHD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="CANAIS • GLOBO",Anhanguera Anápolis FHD
+http://toddyx.eu:80/705653255/569798966/1568072
+#EXTINF:-1 tvg-id="" tvg-name="Anhanguera Anápolis HD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="CANAIS • GLOBO",Anhanguera Anápolis HD
+http://toddyx.eu:80/705653255/569798966/1568073
+#EXTINF:-1 tvg-id="" tvg-name="Anhanguera Anápolis SD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="CANAIS • GLOBO",Anhanguera Anápolis SD
+http://toddyx.eu:80/705653255/569798966/1568074
+#EXTINF:-1 tvg-id="" tvg-name="Anhanguera Rio Verde FHD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="CANAIS • GLOBO",Anhanguera Rio Verde FHD
+http://toddyx.eu:80/705653255/569798966/1568075
+#EXTINF:-1 tvg-id="" tvg-name="Anhanguera Rio Verde HD" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="CANAIS • GLOBO",Anhanguera Rio Verde HD
+http://toddyx.eu:80/705653255/569798966/1568076
 
-
-#EXTINF:-1 tvg-name="ID" tvg-logo="https://imgur.com/OJWv4Ij.png" group-title="Canais | VARIEDADES",ID HD
-https://cdn-2.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IE8xwt4.png" group-title="Canais | VARIEDADES",Trace Brasil
-https://cdn-2.nxplay.com.br/TRACE_BRAZUCA/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BWfmUwV.png" group-title="Canais | VARIEDADES",People Are Awesome
-https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HTxrEq.png" group-title="Canais | VARIEDADES",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
