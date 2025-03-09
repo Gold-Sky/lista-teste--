@@ -1,16 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="[BR] Arte 1 FHD" group-title="BRAZIL",[BR] Arte 1 FHD
-http://supersonictv.live:8080/812493/376688/84937
-#EXTINF:-1 tvg-name="[BR] AXN FHD" group-title="BRAZIL",[BR] AXN FHD
-http://supersonictv.live:8080/812493/376688/84938
-#EXTINF:-1 tvg-name="[BR] Baby FHD" group-title="BRAZIL",[BR] Baby FHD
-http://supersonictv.live:8080/812493/376688/84939
-#EXTINF:-1 tvg-name="[BR] Band FHD" group-title="BRAZIL",[BR] Band FHD
-http://supersonictv.live:8080/812493/376688/84940
-#EXTINF:-1 tvg-name="[BR] Band News FHD" group-title="BRAZIL",[BR] Band News FHD
-http://supersonictv.live:8080/812493/376688/84941
-#EXTINF:-1 tvg-name="[BR] Band Sports FHD" group-title="BRAZIL",[BR] Band Sports FHD
-http://supersonictv.live:8080/812493/376688/84942
-#EXTINF:-1 tvg-name="[BR] BIS FHD" group-title="BRAZIL",[BR] BIS FHD
-http://supersonictv.live:8080/812493/376688/84943
+#EXTINF:-1 tvg-id="Adult.Swim.br" tvg-logo="https://googleplusimages.com/ADULTSWIM.png" group-title=" CANAIS TV", ADULT SWIM
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/84952
+
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/nXgmvlW.png" group-title=" CANAIS TV", AGRO+
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/61558
+
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="https://googleplusimages.com/AMC.png" group-title=" CANAIS TV", AMC
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/181235
+
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.br" tvg-logo="https://googleplusimages.com/ANIMALPLANET.png" group-title=" CANAIS TV", ANIMAL PLANET
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/181209
+
+#EXTINF:-1 tvg-id="Arte.1.HD.br" tvg-logo="https://googleplusimages.com/ARTE1.png" group-title=" CANAIS TV", ARTE 1
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/181220
+
+#EXTINF:-1 tvg-id="AXN.HD.br" tvg-logo="https://googleplusimages.com/AXN.png" group-title=" CANAIS TV", AXN
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/177664
+
+#EXTINF:-1 tvg-id="Babytv.br" tvg-logo="https://googleplusimages.com/babytv.png" group-title=" CANAIS TV", BABYTV
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/110777
+
+#EXTINF:-1 tvg-id="Band.HD.br" tvg-logo="https://googleplusimages.com/BAND.png" group-title=" CANAIS TV", BAND
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/69229
+
+#EXTINF:-1 tvg-id="Band.Natal.HD.br" tvg-logo="https://googleplusimages.com/BAND.png" group-title=" CANAIS TV", BAND NATAL
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/42940
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-logo="https://googleplusimages.com/BANDNEWS.png" group-title=" CANAIS TV", BAND NEWS
+http://bymart628.com:8880/SANTIAGO84/m3bd8n1x/181180
