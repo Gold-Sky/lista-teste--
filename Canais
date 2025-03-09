@@ -1,11 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",3 PALAVRINHAS
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/670
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DO MICKEY MOUSE" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A CASA DO MICKEY MOUSE
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/671
-#EXTINF:-1 tvg-id="" tvg-name="A MANSAO FOSTER" tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A MANSAO FOSTER
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/674
-#EXTINF:-1 tvg-id="" tvg-name="A RODA DO ONIBUS " tvg-logo="http://185.53.90.49:2095/logos/24hhss.png" group-title="24HS INFANTIL ",A RODA DO ONIBUS 
-http://84.16.253.11:2082/Xplus-1-uBMTk2iCho/nG3n64Wziy/675
-
+#EXTINF:-1 tvg-name="[BR] Arte 1 FHD" group-title="BRAZIL",[BR] Arte 1 FHD
+http://supersonictv.live:8080/812493/376688/84937
+#EXTINF:-1 tvg-name="[BR] AXN FHD" group-title="BRAZIL",[BR] AXN FHD
+http://supersonictv.live:8080/812493/376688/84938
+#EXTINF:-1 tvg-name="[BR] Baby FHD" group-title="BRAZIL",[BR] Baby FHD
+http://supersonictv.live:8080/812493/376688/84939
+#EXTINF:-1 tvg-name="[BR] Band FHD" group-title="BRAZIL",[BR] Band FHD
+http://supersonictv.live:8080/812493/376688/84940
+#EXTINF:-1 tvg-name="[BR] Band News FHD" group-title="BRAZIL",[BR] Band News FHD
+http://supersonictv.live:8080/812493/376688/84941
+#EXTINF:-1 tvg-name="[BR] Band Sports FHD" group-title="BRAZIL",[BR] Band Sports FHD
+http://supersonictv.live:8080/812493/376688/84942
+#EXTINF:-1 tvg-name="[BR] BIS FHD" group-title="BRAZIL",[BR] BIS FHD
+http://supersonictv.live:8080/812493/376688/84943
